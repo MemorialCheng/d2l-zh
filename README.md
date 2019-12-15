@@ -26,6 +26,19 @@ BibTeX entry:
     year={2019}
 }
 ```
+chapter_preface  00-前言
+chapter_how-to-use  00-如何使用本书
+chapter_introduction  01-深度学习简介
+chapter_prerequisite  02-预备知识
+chapter_deep-learning-basics  03-深度学习基础
+chapter_deep-learning-computation  04-深度学习计算
+chapter_convolutional-neural-networks  05-卷积神经网络
+chapter_recurrent-neural-networks  06-循环神经网络
+chapter_optimization  07-优化算法（最优化）
+chapter_computational-performance  08-计算视觉
+chapter_computer-vision  09-计算机视觉
+chapter_natural-language-processing  10-自然语言处理
+chapter_appendix  11-附录
 
 
 ## 贡献
