@@ -4,6 +4,19 @@
 
 [本书网址：zh.d2l.ai](https://zh.d2l.ai/) | [1.0.0版rc0发布](https://github.com/d2l-ai/d2l-zh/releases/tag/v1.0.0-rc0) | [如何安装和使用书中源代码](https://zh.d2l.ai/chapter_prerequisite/install.html)
 
+chapter_preface  00-前言<br>
+chapter_how-to-use  00-如何使用本书<br>
+chapter_introduction  01-深度学习简介<br>
+chapter_prerequisite  02-预备知识<br>
+chapter_deep-learning-basics  03-深度学习基础<br>
+chapter_deep-learning-computation  04-深度学习计算<br>
+chapter_convolutional-neural-networks  05-卷积神经网络<br>
+chapter_recurrent-neural-networks  06-循环神经网络<br>
+chapter_optimization  07-优化算法（最优化）<br>
+chapter_computational-performance  08-计算视觉<br>
+chapter_computer-vision  09-计算机视觉<br>
+chapter_natural-language-processing  10-自然语言处理<br>
+chapter_appendix  11-附录<br>
 ## 更新
 
 英文版全面改进了[预备知识](https://d2l.ai/chapter_preliminaries/index.html)一章，
@@ -26,19 +39,7 @@ BibTeX entry:
     year={2019}
 }
 ```
-chapter_preface  00-前言
-chapter_how-to-use  00-如何使用本书
-chapter_introduction  01-深度学习简介
-chapter_prerequisite  02-预备知识
-chapter_deep-learning-basics  03-深度学习基础
-chapter_deep-learning-computation  04-深度学习计算
-chapter_convolutional-neural-networks  05-卷积神经网络
-chapter_recurrent-neural-networks  06-循环神经网络
-chapter_optimization  07-优化算法（最优化）
-chapter_computational-performance  08-计算视觉
-chapter_computer-vision  09-计算机视觉
-chapter_natural-language-processing  10-自然语言处理
-chapter_appendix  11-附录
+
 
 
 ## 贡献
